@@ -1,8 +1,8 @@
-
 # 🚀 Welcome to My GitHub Profile!
 Hi there! I'm **Maryam Alkhunaizi**, a passionate developer, Al enthusiast, and cloud practitioner. I love building scalable Al applications, exploring LLM architectures, and optimizing machine learning models.
-##🛠️ Tech Stack
-### 🔷 Programming & Core Concepts <p align="left">
+## 🛠️ Tech Stack
+### 🔷 Programming & Core Concepts 
+<p align="left">
 <img src="https://img.shields.io/badge/
 Python-3776AB?style-for-the- badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/
