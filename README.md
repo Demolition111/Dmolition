@@ -1,4 +1,4 @@
-# 🚀 Welcome to My GitHub Profile!
+
 
 Hi there! I'm **Maryam Alkhunaizi**, a cybersecurity specialist with a strong interest in penetration testing and a career goal of becoming a cybersecurity engineer. I’m passionate about network defense, system hardening, and working with modern tools to secure digital environments.
 
