@@ -4,6 +4,14 @@ Hi there! I'm **Maryam Alkhunaizi**, a cybersecurity specialist with a strong in
 
 ---
 
+![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dmolition&show_icons=true&theme=radical)
+![Maryam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Dmolition&theme=radical)
+![Maryam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmolition&layout=compact&theme=radical)
+
+
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🔷 Programming & Core Concepts 
@@ -12,6 +20,7 @@ Hi there! I'm **Maryam Alkhunaizi**, a cybersecurity specialist with a strong in
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
@@ -63,4 +72,3 @@ Hi there! I'm **Maryam Alkhunaizi**, a cybersecurity specialist with a strong in
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
-
