@@ -5,7 +5,7 @@ Hi there! I'm **Maryam Alkhunaizi**, a cybersecurity specialist with a strong in
 ---
 
 ![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dmolition&show_icons=true&theme=radical)
-![Maryam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Dmolition&theme=radical)
+![Maryam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dmolition&theme=radical)
 ![Maryam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmolition&layout=compact&theme=radical)
 
 
